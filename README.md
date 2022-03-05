@@ -1,6 +1,6 @@
 # yolov5_deploy
--- > This repo has information about the deployment of yolov5.
--- > deploy.py has code for both detection on image and video.
+- This repo has information about the deployment of yolov5.
+- deploy.py has code for both detection on image and video.
 ## Steps:
 ### 1. Create a new env and install all equired libraries.
 
