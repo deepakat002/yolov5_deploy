@@ -1,6 +1,10 @@
 # yolov5_deploy
 - This repo has information about the deployment of yolov5.
 - deploy.py has code for both detection on image and video.
+- Official yolov5 repo: https://github.com/ultralytics/yolov5
+- How to train custom yolov5: https://www.youtube.com/watch?v=12UoOlsRwh8&ab_channel=coderzero
+
+
 ## Steps:
 ### 1. Create a new env and install all equired libraries.
 
